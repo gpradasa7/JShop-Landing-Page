@@ -1,0 +1,29 @@
+.logo {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: #2c2a2b;
+}
+
+.content span {
+  font-family: "ABeeZee";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0 20px;
+  color: #2c2a2b;
+}
+
+.primary {
+  color: #0c0c0c !important;
+}
+.back {
+  background: white;
+}
+
+.css-7e0s21-MuiPaper-root-MuiAppBar-root {
+  box-shadow: none !important;
+}

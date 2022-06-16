@@ -1,0 +1,122 @@
+.title-section1 {
+  margin-top: 3%;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 49px;
+}
+.main-title-section1 {
+  position: absolute;
+  top: 350px;
+  display: flex;
+  width: 480px;
+  height: 134px;
+  left: 17%;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 80px;
+}
+.p-section1 {
+  font-family: "Gilroy-Medium";
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.backgrond {
+  box-shadow: none !important;
+}
+
+.Button {
+  z-index: 1;
+  position: absolute;
+  left: 50%;
+  top: -300px;
+  width: 120px;
+  height: 120px;
+  border: 0.5px solid black !important;
+  border-radius: 100% !important;
+}
+
+.play {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 80%;
+  right: 70px;
+}
+
+.title-section2 {
+  width: 250px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 69px;
+  letter-spacing: 0.05em;
+}
+
+.p-section2 {
+  font-family: "Gilroy-Medium";
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.contentSection2 {
+  width: 700px;
+  height: 600px;
+}
+.btn {
+  background: #3d3d3f !important;
+}
+
+.price {
+  margin: 10px 15px;
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 52px;
+}
+
+.grid {
+  display: flex;
+  justify-content: center;
+  padding: 0 10%;
+  margin-bottom: 40px;
+}
+
+.main-title-section4 {
+  font-family: "Noto Serif JP";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 78px;
+  letter-spacing: 0.05em;
+}
+.second-title-section4 {
+  font-family: "Gilroy-Medium";
+  font-size: 38px;
+  line-height: 45px;
+  letter-spacing: 0.09em;
+  color: #2c2a2b;
+}
+
+.p-section4 {
+  font-family: "Gilroy-Regular";
+  font-size: 20px;
+  line-height: 150%;
+  width: 420px;
+  height: 200px;
+}
+
+.btn-section4 {
+  background: #3d3d3f !important;
+  margin-top: 50px !important;
+}
+
+.marcas {
+  display: flex;
+  justify-content: center;
+  margin: 15px 0;
+}
